@@ -1,0 +1,13 @@
+{
+    "actions": [
+      {
+        "role": "Senior Researcher",
+        "task": "Investigate how AI will change Cyber Security Roles in the United Kingdom this coming decade",
+        "tools": ["Internet Search Tool"],
+        "description": "Uncover how AI will transform Cyber Security Roles in the United Kingdom over the next decade",
+        "context": "Investigate the impact of AI on Cyber Security roles in the United Kingdom over the next decade. Focus on predictive threat detection, automated response systems, AI-driven data analysis, and the emergence of new roles such as 'AI Security Analyst' and 'Data-Driven Security Analyst'. Highlight the evolving skill requirements and the integration of AI technologies in cyber security practices.",
+        "output_file": "ai_cyber_security_uk.txt"
+      }
+    ]
+  }
+  

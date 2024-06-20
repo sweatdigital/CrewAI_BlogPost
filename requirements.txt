@@ -1,0 +1,11 @@
+crewai
+crewai_tools
+python-dotenv
+duckduckgo-search
+langchain
+ollama
+langchain-community
+llama_index
+transformers
+
+
