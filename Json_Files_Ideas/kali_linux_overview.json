@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the overview and significance of Kali Linux in cybersecurity",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the importance of Kali Linux within the cybersecurity domain",
+      "context": "Investigate what Kali Linux is, its history, and why it is significant in cybersecurity, focusing on its features, benefits, and common use cases.",
+      "output_file": "kali_linux_overview.txt"
+    }
+  ]
+}
+

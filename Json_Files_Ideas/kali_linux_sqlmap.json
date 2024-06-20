@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the SQLmap tool in Kali Linux",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the functionalities and uses of SQLmap within Kali Linux",
+      "context": "Investigate what SQLmap is, how it works, and its applications in SQL injection testing, focusing on common commands and examples.",
+      "output_file": "kali_linux_sqlmap.txt"
+    }
+  ]
+}
+

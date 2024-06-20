@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the Nikto tool in Kali Linux",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the functionalities and uses of Nikto within Kali Linux",
+      "context": "Investigate what Nikto is, how it works, and its applications in web server scanning, focusing on identifying vulnerabilities and misconfigurations.",
+      "output_file": "kali_linux_nikto.txt"
+    }
+  ]
+}
+

@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the John the Ripper tool in Kali Linux",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the functionalities and uses of John the Ripper within Kali Linux",
+      "context": "Investigate what John the Ripper is, how it works, and its applications in password cracking, focusing on its modes and common usage scenarios.",
+      "output_file": "kali_linux_john.txt"
+    }
+  ]
+}
+

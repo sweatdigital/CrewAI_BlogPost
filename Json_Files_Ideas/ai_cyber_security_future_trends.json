@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate future trends in cybersecurity driven by AI",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover future trends in cybersecurity within an AI context",
+      "context": "Investigate future trends in cybersecurity driven by AI advancements, focusing on emerging technologies, potential threats, and evolving defense mechanisms.",
+      "output_file": "ai_future_trends_cybersecurity.txt"
+    }
+  ]
+}
+

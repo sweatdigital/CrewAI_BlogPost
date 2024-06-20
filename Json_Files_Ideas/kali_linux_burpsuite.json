@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the Burp Suite tool in Kali Linux",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the functionalities and uses of Burp Suite within Kali Linux",
+      "context": "Investigate what Burp Suite is, how it works, and its applications in web application security testing, focusing on features like the proxy, scanner, and intruder.",
+      "output_file": "kali_linux_burpsuite.txt"
+    }
+  ]
+}
+

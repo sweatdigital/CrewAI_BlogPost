@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the skill gap in cybersecurity in an AI-driven future",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the skill gap in cybersecurity within an AI context",
+      "context": "Investigate the skill gap in cybersecurity driven by AI advancements, focusing on training, education, and the demand for AI-specific expertise.",
+      "output_file": "ai_skill_gap_cybersecurity.txt"
+    }
+  ]
+}
+

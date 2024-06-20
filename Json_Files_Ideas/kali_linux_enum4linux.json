@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the Enum4linux tool in Kali Linux",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the functionalities and uses of Enum4linux within Kali Linux",
+      "context": "Investigate what Enum4linux is, how it works, and its applications in enumerating information from Windows systems, focusing on common commands and usage scenarios.",
+      "output_file": "kali_linux_enum4linux.txt"
+    }
+  ]
+}
+

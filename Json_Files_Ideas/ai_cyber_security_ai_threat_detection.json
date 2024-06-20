@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate AI-driven threat detection in cybersecurity",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the role of AI in threat detection within cybersecurity",
+      "context": "Investigate how AI is being used for threat detection in cybersecurity, focusing on machine learning algorithms, anomaly detection, and real-time threat identification.",
+      "output_file": "ai_threat_detection.txt"
+    }
+  ]
+}
+

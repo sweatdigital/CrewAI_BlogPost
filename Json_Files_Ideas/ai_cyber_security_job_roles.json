@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the evolving cybersecurity job roles in an AI-driven future",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover how AI is transforming cybersecurity job roles",
+      "context": "Investigate the new and evolving job roles in cybersecurity driven by AI, focusing on positions like 'AI Security Analyst' and 'Data-Driven Security Analyst' and the skills required.",
+      "output_file": "ai_cybersecurity_job_roles.txt"
+    }
+  ]
+}
+

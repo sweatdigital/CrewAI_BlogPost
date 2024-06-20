@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate predictive analysis in cybersecurity using AI",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the role of AI in predictive analysis within cybersecurity",
+      "context": "Investigate how AI is being used for predictive analysis in cybersecurity, focusing on forecasting threats, vulnerabilities, and proactive defense strategies.",
+      "output_file": "ai_predictive_analysis.txt"
+    }
+  ]
+}
+

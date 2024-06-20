@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the Aircrack-ng tool in Kali Linux",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the functionalities and uses of Aircrack-ng within Kali Linux",
+      "context": "Investigate what Aircrack-ng is, how it works, and its applications in wireless network security, focusing on cracking WEP and WPA-PSK keys.",
+      "output_file": "kali_linux_aircrack_ng.txt"
+    }
+  ]
+}
+

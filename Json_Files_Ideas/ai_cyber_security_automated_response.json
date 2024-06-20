@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate automated response systems in cybersecurity using AI",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the role of AI in automated response systems within cybersecurity",
+      "context": "Investigate how AI is being used to automate response systems in cybersecurity, focusing on incident response, threat neutralization, and minimizing human intervention.",
+      "output_file": "ai_automated_response.txt"
+    }
+  ]
+}
+

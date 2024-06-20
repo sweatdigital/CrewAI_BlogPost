@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the impact of AI on cybersecurity policies and regulations",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the impact of AI on cybersecurity policies and regulations",
+      "context": "Investigate how AI is impacting cybersecurity policies and regulations, focusing on compliance, ethical considerations, and global standards.",
+      "output_file": "ai_policy_cybersecurity.txt"
+    }
+  ]
+}
+

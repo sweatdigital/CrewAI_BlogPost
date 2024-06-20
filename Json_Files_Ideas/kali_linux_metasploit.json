@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the Metasploit Framework in Kali Linux",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the functionalities and uses of Metasploit within Kali Linux",
+      "context": "Investigate what Metasploit is, how it works, and its applications in penetration testing, focusing on common exploits and usage examples.",
+      "output_file": "kali_linux_metasploit.txt"
+    }
+  ]
+}
+

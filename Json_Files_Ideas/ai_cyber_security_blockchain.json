@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the integration of AI and blockchain in cybersecurity",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the role of AI and blockchain integration in cybersecurity",
+      "context": "Investigate how AI and blockchain are being integrated in cybersecurity, focusing on secure transactions, decentralized systems, and smart contracts.",
+      "output_file": "ai_blockchain_cybersecurity.txt"
+    }
+  ]
+}
+

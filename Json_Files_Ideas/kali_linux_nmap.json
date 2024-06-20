@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the Nmap tool in Kali Linux",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the functionalities and uses of Nmap within Kali Linux",
+      "context": "Investigate what Nmap is, how it works, and its applications in network scanning, focusing on common commands and examples.",
+      "output_file": "kali_linux_nmap.txt"
+    }
+  ]
+}
+

@@ -1,0 +1,13 @@
+{
+  "actions": [
+    {
+      "role": "Senior Researcher",
+      "task": "Investigate the Hydra tool in Kali Linux",
+      "tools": ["Internet Search Tool"],
+      "description": "Uncover the functionalities and uses of Hydra within Kali Linux",
+      "context": "Investigate what Hydra is, how it works, and its applications in brute-force attacks, focusing on its usage for cracking login credentials.",
+      "output_file": "kali_linux_hydra.txt"
+    }
+  ]
+}
+
